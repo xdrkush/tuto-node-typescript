@@ -1,0 +1,17 @@
+{
+  "name": "05-alias-generics",
+  "version": "1.0.0",
+  "description": "# Docs   -",
+  "main": "index.js",
+  "scripts": {
+    "dev:tsc": "npx tsc --watch",
+    "dev:node": "nodemon dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
